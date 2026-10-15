@@ -57,4 +57,4 @@ L'aplicació llegeix les activitats de la col·lecció `activities` de Cloud Fir
 
 ## Enllaç a la web publicada
 
-Pendent de desplegament a Firebase Hosting.
+(https://web-projecte-vue.web.app)
